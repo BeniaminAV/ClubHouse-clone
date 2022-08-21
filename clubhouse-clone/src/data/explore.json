@@ -1,0 +1,74 @@
+{
+    "people": [
+      {
+        "title": "April Underwood",
+        "description": " CEO and Founder, local Laboratory. Co-fonder #ANajkaslkdasld"
+      },
+      {
+        "title": "Helena Price Hambrecht",
+        "description": "Founder @drinkaus / Twitter @helena"
+      },
+      {
+        "title": "James Cham",
+        "description": "@jamescham"
+      }
+    ],
+    "conversation": [
+      {
+        "title": "Tech",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Languages",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Places",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Identity",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Sports",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Life",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Knowledge",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Hustle",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Arts",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Entertainment",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Hanging Out",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Faith",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "Wellness",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      },
+      {
+        "title": "World Affairs",
+        "description": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+      }
+    ]
+  }

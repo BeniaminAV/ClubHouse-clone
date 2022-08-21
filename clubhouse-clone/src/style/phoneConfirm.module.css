@@ -1,0 +1,88 @@
+.PhoneConfirmContainer{
+    padding:  3em 1.7em;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f2f0e4;
+    position: relative;
+}
+
+.PhoneConfirmContainer h1{
+    font-size: 1.3em;
+    font-weight: 500;
+    font-style: normal;
+    margin-bottom: 0;
+    color: var(--textColor);
+}
+
+.PhoneConfirmContainer p {
+    font-size: 0.775em;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    width: 100%;
+    max-width: 270px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.PhoneConfirmContainer p span{
+    font-weight: 500;
+}
+
+.backBtn{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.backBtn img{
+    width: 20px;
+}
+
+.notificationContainer{
+    border-radius: 1em;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px #cccccc;
+}
+
+.notificationContainer h3{
+    font-size: 1em;
+    font-weight: 500;
+    color: #000000;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 0.3em;
+}
+
+.notificationContainer p{
+    font-size: 0.825em;
+    font-weight: 500;
+    line-height: 1.3;
+    margin: auto;
+}
+
+.notificationContainer .action_btn{
+    position: relative;
+}
+
+.notificationContainer .action_btn a{
+    display: inline-block;
+    width: 50%;
+    padding: 0.5em;
+    border-top: 1px solid #cccccc;
+    color: var(--btnBgColor);
+}
+
+.notificationContainer .action_btn>a:first-child{
+    border-right: 1px solid #cccccc;
+}
+
+.notificationContainer .hand_icon{
+    position: absolute;
+    bottom: -90px;
+    right: 20px;
+    width: 80px;
+}
