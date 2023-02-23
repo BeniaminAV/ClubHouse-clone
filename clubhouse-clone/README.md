@@ -1,4 +1,4 @@
-React.js, Styled-Component, Full Responsive
+React.js, Styled-Component, Full Responsive 
 
 I have created a clone of the Clubhouse application using technologies such as ReactJS and Styled-Components. I ensured that the application is full responsive, so it can be used on different devices and screen sizes, including mobile phones, tablets, and desktops.
 
