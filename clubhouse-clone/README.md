@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+React.js, Styled-Component, Full Responsive
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have created a clone of the Clubhouse application using technologies such as ReactJS and Styled-Components. I ensured that the application is full responsive, so it can be used on different devices and screen sizes, including mobile phones, tablets, and desktops.
 
-## Available Scripts
+I tried to respect the original design of the Clubhouse application as much as possible, so that users feel familiar with the interface of my application. In addition, I made the application easy to use, with an intuitive navigation and clear options for interacting with other users.
 
-In the project directory, you can run:
+To develop the application, I used ReactJS and Styled-Components, two popular technologies in the development of modern and performant web applications. ReactJS is a JavaScript library for building user interfaces, and Styled-Components is a library that allows defining CSS styles within React components.
 
-### `npm start`
+![Startpage](https://user-images.githubusercontent.com/57075208/220985356-d983c9ba-d762-4bcf-9238-de4db9bab70e.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![LoginWithNumberPhone](https://user-images.githubusercontent.com/57075208/220985414-16477cb7-a5a7-429e-a200-8fbf60aa56b0.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![MessageCode](https://user-images.githubusercontent.com/57075208/220985459-920f70c1-5714-498e-81a4-18bfc74f11ec.png)
 
-### `npm test`
+![AllowNotification](https://user-images.githubusercontent.com/57075208/220985483-cd651dd3-dedd-41b6-b146-19cd46cfd302.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![FirstPage](https://user-images.githubusercontent.com/57075208/220985509-2e69e170-4a9a-4d34-9583-3cd91eefd652.png)
